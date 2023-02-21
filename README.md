@@ -1,12 +1,17 @@
-<h1 align="center"> EXERCITANDO O JAVA </h1>
+<img src="banner_exer_java.png" alt="" width="100%">
 
-Exercícios propostos e resolvidos para fixar o aprendizado da linguagem Java tais como, lógica de programação, algorítimo e Orientação á Objetos.
-
+## 🚀 Apresentação
+<br>
+📍 Exercícios propostos e resolvidos para fixar o aprendizado da linguagem Java tais como, lógica de programação, algorítimo e Orientação á Objetos.
+<br>
+<br>
 <div align="center">
 <img src="gato.gif" width=50%>
 </div>
+<br>
 
 ## 🛠️ Stacks e conhecimentos utilizados
+<br>
 
 * Estrutura de Repetição;
 * Expressões Comparativas;
@@ -15,7 +20,10 @@ Exercícios propostos e resolvidos para fixar o aprendizado da linguagem Java ta
 * Vetores
 * Member Static
 
+<br>
+
 ## 📦 Aplicando conceitos nos próximos Projetos
+<br>
 
 * Construtores;
 * Sobrecarga;
